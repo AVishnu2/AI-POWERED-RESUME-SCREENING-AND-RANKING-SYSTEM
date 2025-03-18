@@ -1,6 +1,6 @@
 # Resume Screening
 
-This repository contains a machine learning project focused on automating the resume screening process using Python. The primary goal is to develop a model that can efficiently and accurately evaluate resumes based on predefined criteria.
+This repository contains a Artificial Intelligence project focused on automating the resume screening process using Python. The primary goal is to develop a model that can efficiently and accurately evaluate resumes based on predefined criteria.
 
 <img src="Cover.png" alt="resume cover">
 
@@ -9,7 +9,6 @@ This repository contains a machine learning project focused on automating the re
 - [Why do we need Resume Screening?](#why-do-we-need-resume-screening)
 - [Introduction](#introduction)
 - [Modules & Libraries](#modules--libraries)
-- [Functionality of Application](#functionality-of-application)
 - [Tools & Technologies Used](#tools--technologies-used)
 - [Tech Innovations in Resume Screening](#tech-innovations-in-resume-screening)
 - [Installation](#installation)
@@ -18,7 +17,6 @@ This repository contains a machine learning project focused on automating the re
 - [Model](#model)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Why do we need Resume Screening?
@@ -38,7 +36,6 @@ This repository contains a machine learning project focused on automating the re
 ## Modules & Libraries
 
 ### Modules
-- **KNN**: It's a supervised technique used for classification. "K" in KNN represents the number of nearest neighbors used to classify or predict in case of continuous variables.
 - **NLP**: Natural Language Processing (NLP) is a field in machine learning with the ability of a computer to understand, analyze, manipulate, and potentially generate human language.
 
 ### Libraries
@@ -49,15 +46,6 @@ This repository contains a machine learning project focused on automating the re
 - **SciPy**: Open-source software used for scientific computing in Python.
 - **Scikit-learn**: Free software machine learning library for Python used for classification, regression, clustering, and more.
 - **NLTK**: Natural Language Toolkit (NLTK) is a set of processing libraries providing solutions for text analysis and language processing.
-
-## Functionality of Application
-
-Screening resumes usually involves a three-step process based on the role’s minimum and preferred qualifications. Both types of qualifications should be related to on-the-job performance. These qualifications can include:
-- Work experience
-- Education
-- Skills and knowledge
-- Personality traits
-- Competencies
 
 ## Tools & Technologies Used
 
@@ -103,13 +91,9 @@ The performance of the models is evaluated using metrics such as accuracy, preci
 
 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 Contact
 For any questions or inquiries, please contact:
 
-Anukalp Mishra
+Vishnu vardhan
 
-GitHub: anukalp-mishra
+GitHub: https://github.com/AVishnu2
